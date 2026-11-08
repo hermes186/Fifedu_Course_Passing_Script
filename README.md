@@ -1,11 +1,11 @@
 # FIF 智慧教学平台全自动刷课助手
 
-[![GreasyFork 版本](https://img.shields.io/greasyfork/v/604397?style=for-the-badge&logo=greasyfork&logoColor=white&label=GreasyFork&color=670000)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
-[![GreasyFork 总安装量](https://img.shields.io/greasyfork/dt/604397?style=for-the-badge&logo=greasyfork&logoColor=white&label=%E6%80%BB%E5%AE%89%E8%A3%85%E9%87%8F&color=e05d44)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
-[![UserScript 兼容引擎](https://img.shields.io/badge/UserScript-Tampermonkey%20%7C%20Violentmonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)](./fif-auto-study.user.js)
-[![Python CDP 版本](https://img.shields.io/badge/Python-3.8%2B%20CDP-3776AB?style=for-the-badge&logo=python&logoColor=white)](./master_auto_study.py)
-[![适用平台](https://img.shields.io/badge/Platform-icourse.fifedu.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icourse.fifedu.com/istp-manage/work/home)
-[![开源协议](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](https://github.com/hermes186/Fifedu-)
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/604397?logo=greasyfork)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
+[![Greasy Fork License](https://img.shields.io/greasyfork/l/604397)](https://github.com/hermes186/Fifedu-)
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-supported-00485B?logo=tampermonkey)](./fif-auto-study.user.js)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](./master_auto_study.py)
+[![GitHub last commit](https://img.shields.io/github/last-commit/hermes186/Fifedu-?logo=github)](https://github.com/hermes186/Fifedu-)
+[![GitHub stars](https://img.shields.io/github/stars/hermes186/Fifedu-?logo=github)](https://github.com/hermes186/Fifedu-)
 
 > 专为 **FIF 智慧教学平台 / 讯飞高教自适应学习系统**（[icourse.fifedu.com](https://icourse.fifedu.com/istp-manage/work/home)）打造的全自动辅助学习工具集。
 > 提供 **浏览器油猴脚本（UserScript）** 与 **本地 Python CDP 守护进程** 双引擎方案，支持多课程连刷、全类型课件自动完成、损坏视频源容错直报及单元检测安全跳过。
@@ -14,11 +14,8 @@
 
 ## 在线安装与快捷入口
 
-[![立即前往 GreasyFork 安装脚本](https://img.shields.io/badge/%F0%9F%9A%80%20GreasyFork%20%E5%9C%A8%E7%BA%BF%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-%23604397-670000?style=for-the-badge&logo=greasyfork&logoColor=white)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
-[![查看本地 UserScript 源码](https://img.shields.io/badge/%F0%9F%93%9C%20%E6%9C%AC%E5%9C%B0%E8%84%9A%E6%9C%AC%E6%BA%90%E7%A0%81-fif--auto--study.user.js-00485B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](./fif-auto-study.user.js)
-[![访问 FIF 智慧教学平台](https://img.shields.io/badge/%F0%9F%8E%93%20%E8%AE%BF%E9%97%AE%E5%AD%A6%E4%B9%A0%E7%A9%BA%E9%97%B4-icourse.fifedu.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icourse.fifedu.com/istp-manage/work/home)
-
-- **GreasyFork 脚本主页**：[FIF智慧教学平台全自动刷课助手 (GreasyFork #604397)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
+- **GreasyFork 在线一键安装**：[FIF智慧教学平台全自动刷课助手 (GreasyFork #604397)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
+- **本地 UserScript 源码**：[`fif-auto-study.user.js`](./fif-auto-study.user.js)
 - **GitHub 仓库地址**：[hermes186/Fifedu-](https://github.com/hermes186/Fifedu-)
 - **适用域名范围**：`icourse.fifedu.com`、`resc.fifedu.com`、`*.ow365.cn`
 
