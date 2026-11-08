@@ -16,7 +16,6 @@
 
 - **GreasyFork 在线一键安装**：[FIF智慧教学平台全自动刷课助手 (GreasyFork #604397)](https://greasyfork.org/zh-CN/scripts/604397-fif%E6%99%BA%E6%85%A7%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-icourse-fifedu-com)
 - **本地 UserScript 源码**：[`fif-auto-study.user.js`](./fif-auto-study.user.js)
-- **GitHub 仓库地址**：[hermes186/Fifedu-](https://github.com/hermes186/Fifedu-)
 - **适用域名范围**：`icourse.fifedu.com`、`resc.fifedu.com`、`*.ow365.cn`
 
 ---
